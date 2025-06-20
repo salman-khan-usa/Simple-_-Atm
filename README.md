@@ -40,3 +40,16 @@ Enter your pincode: 11223
 choose your option (1-4): 2
 Enter the amount you want to Deposit: 5000
 $5000 Deposited successfully. New Balance is $15000
+
+## 👨‍💻 Author
+
+**Salman Khan Niazi**
+
+I'm a 16-year-old student from Pakistan, just starting my python programming journey.  
+My ultimate dream is to become a **Machine Learning Engineer** and move to the **USA** to build a new, passionate life in tech.
+
+I’m currently:
+
+- 📚 Learning Python as my first real programming language
+- 💪 Practicing daily to improve my coding logic and skills
+This ATM project is one of my first baby steps — but I'm obsessed with learning and pushing forward every single day.
